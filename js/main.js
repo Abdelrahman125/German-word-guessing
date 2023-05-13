@@ -81,11 +81,6 @@ const keys = [
     'Die Zeitschrift', //80
     'Die schlafstorung', //81
     'Die Blume' , //82
-    'Die Herkunft' , //83
-    'Die U-Bahn', //84
-    'Die Ubernachtung' , //85
-
-
 ];
 const values = [
      'المساء', //1
@@ -170,9 +165,6 @@ const values = [
      'مجلة',//80
      'أرق', //81
      'زهرة' //82   
-    'الموطن' ,   //83
-'مترو الأنفاق' ,   //84
-'المبيت' , //86
 
 ];
 
