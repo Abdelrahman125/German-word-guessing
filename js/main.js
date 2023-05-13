@@ -90,7 +90,7 @@ const keys = [
     'Der Ober', //89
     'Der Laden', //90
     'Der Weg', //91
-    'Der Verein' //92
+    'Der Verein', //92
     'Der Baum', //93
     'Der Notfall', //94
     'Das Feuer' , //95
