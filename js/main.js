@@ -84,6 +84,7 @@ const keys = [
     'Die Sehenswürdigkiet', //83
     'lust', //84
     'traumen' //85
+    'past nicth' , //86
 ];
 const values = [
      'المساء', //1
@@ -168,12 +169,14 @@ const values = [
      'مجلة',//80
      'أرق', //81
      'زهرة', //82   
+    
    
    'مزار سياحي' 
     , //83
     
     'رغبة/متعة', //84
   'يحلم' , //85
+'مش مناسب' , //86
 ];
 
 let randomIndex, correctOption;
