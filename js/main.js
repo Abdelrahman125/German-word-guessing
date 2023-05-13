@@ -70,7 +70,7 @@ const keys = [
     'Das Tier', //69
     'Das Wartzimmer', //70
     'Das Wellnes', //71
-    'Das zimer', //72
+    'Das zimmer', //72
     'absagen', //73
     'schmecken', //74
     'Rauchen', //75
