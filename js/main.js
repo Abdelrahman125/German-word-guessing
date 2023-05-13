@@ -83,7 +83,7 @@ const keys = [
     'Die Blume' , //82
     'Die Sehenswürdigkiet', //83
     'lust', //84
-    'traumen' //85
+    'traumen', //85
     'past nicth' , //86
 ];
 const values = [
