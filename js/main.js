@@ -82,6 +82,8 @@ const keys = [
     'Die schlafstorung', //81
     'Die Blume' , //82
     'Die Sehenswürdigkiet', //83
+    'lust', //84
+    'traumen' //85
 ];
 const values = [
      'المساء', //1
@@ -166,9 +168,12 @@ const values = [
      'مجلة',//80
      'أرق', //81
      'زهرة', //82   
-     'مزار سياحي' , //83
+   
+   'مزار سياحي' 
+    , //83
     
-
+    'رغبة/متعة', //84
+  'يحلم' , //85
 ];
 
 let randomIndex, correctOption;
