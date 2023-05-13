@@ -80,6 +80,7 @@ const keys = [
     'Die Verletzung', //79
     'Die Zeitschrift', //80
     'Die schlafstorung', //81
+    'Die Blume' , //82
 
 ];
 const values = [
@@ -164,7 +165,8 @@ const values = [
      'اصابة', //79
      'مجلة',//80
      'أرق', //81
-    ];
+     'زهرة' //82   
+];
 
 let randomIndex, correctOption;
 
