@@ -81,6 +81,7 @@ const keys = [
     'Die Zeitschrift', //80
     'Die schlafstorung', //81
     'Die Blume' , //82
+    'Die Sehenswürdigkiet', //83
 ];
 const values = [
      'المساء', //1
@@ -164,7 +165,9 @@ const values = [
      'اصابة', //79
      'مجلة',//80
      'أرق', //81
-     'زهرة' //82   
+     'زهرة', //82   
+     'مزار سياحي' , //83
+    
 
 ];
 
