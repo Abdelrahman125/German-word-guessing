@@ -85,6 +85,22 @@ const keys = [
     'lust', //84
     'traumen', //85
     'past nicth' , //86
+    'Der Ehemann', //87
+    'Der Optiker', //88
+    'Der Ober', //89
+    'Der Laden', //90
+    'Der Weg', //91
+    'Der Verein' //92
+    'Der Baum', //93
+    'Der Notfall', //94
+    'Das Feuer' , //95
+    'Das Erdgeschoss' , //96
+    'Das Silvester' , //97
+    'Das Geschenk' , //98
+    'Das Obergschoss', //99
+    'Das Fundburo' , //100
+    'Das Schloss', //101
+    'Das Ostern', //102
 ];
 const values = [
      'المساء', //1
@@ -173,6 +189,22 @@ const values = [
     'رغبة / متعة' , //84
     'يحلم', //85
     'مش مناسب', //86
+    'زوج', //87
+    'بتاع النظارات', //88
+    'جرسون', //89
+    'محل' , //90
+    'طريق',//91
+    'اتحاد',//92
+    'شجرة',//93
+    'حالة طوارئ',//94
+    'نار',//95
+    'الدور الارضي' , //96
+    'ليلة رأس السنة', //97
+    'هدية',//98
+    'الطابق العلوي', //99
+    'مكتب المفقودات' , //100
+    'قفل او قصر' //101
+    'شم النسيم', //102
 ];
 
 let randomIndex, correctOption;
