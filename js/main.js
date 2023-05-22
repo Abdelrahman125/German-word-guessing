@@ -101,6 +101,8 @@ const keys = [
     'Das Fundburo' , //100
     'Das Schloss', //101
     'Das Ostern', //102
+    'Das Handy' , //103
+    'Das Getränk' //104
 ];
 const values = [
      'المساء', //1
@@ -205,6 +207,8 @@ const values = [
     'مكتب المفقودات' , //100
     'قفل او قصر', //101
     'شم النسيم', //102
+    'هاتف محمول', //103
+    'مشروب', //104
 ];
 
 let randomIndex, correctOption;
