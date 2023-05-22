@@ -102,7 +102,8 @@ const keys = [
     'Das Schloss', //101
     'Das Ostern', //102
     'Das Handy' , //103
-    'Das Getränk' //104
+    'Das Getränk', //104
+ 'Das Frühstük' , //105
 ];
 const values = [
      'المساء', //1
@@ -209,6 +210,7 @@ const values = [
     'شم النسيم', //102
     'هاتف محمول', //103
     'مشروب', //104
+    'فطار', //105
 ];
 
 let randomIndex, correctOption;
