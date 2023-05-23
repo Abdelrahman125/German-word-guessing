@@ -1,5 +1,27 @@
 const keys = [
-   
+   'krimi ' //1
+'joggingganzug' //2
+'Apfelkuchen'  //3
+'badeazug' //4
+'skianzug' //5
+'freizeit-Terror' //6
+'Hund' //7
+'wert' //8
+'Freizeit stress'//9
+'Großeinkauf' //10
+'Stress' //11 
+'Ski' //12
+'mittagessen'//13 
+'abendessen' //14
+'kino'//15
+'fitness-studio'//16
+'Generalkonsulat ', //17
+'schiff ', //18
+'stadtzentrum', //18
+'gewitter',//19
+'internet', //20
+'ding', //21
+'geld', //22
 ];
 const values = [
      
