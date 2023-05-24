@@ -104,6 +104,46 @@ const keys = [
     'Das Handy' , //103
     'Das Getränk', //104
  'Das Frühstük' , //105
+ 'krimi ',  //1 
+ 'joggingganzug',  //2 
+ 'Apfelkuchen' , //3 
+ 'badeazug', //4 
+ 'skianzug' , //5 
+ 'freizeit-Terror' , //6 
+ 'Hund' , //7 
+ 'wert', //8 
+ 'Freizeit stress',//9 
+ 'Großeinkauf', //10 
+ 'Stress', //11  
+ 'Ski', //12 
+ 'mittagessen', //13  
+ 'abendessen', //14 
+ 'kino', //15 
+ 'fitness-studio', //16 
+ 'Generalkonsulat ', //17 
+ 'schiff ', //18 
+ 'stadtzentrum', //18 
+ 'gewitter',//19 
+ 'internet', //20 
+ 'ding', //21 
+ 'geld', //22 
+ 'Uhr,en' , //104 
+ 'Woche,n' , //105 
+ 'Hausaufgabe,n' , //106 
+ 'Glaskuppel,n' , //107 
+ 'Stadtrundfahrt,..en' , //108 
+ 'Erwachsene,n' , //109 
+ 'Tour, en' , //110 
+ 'Arztpraxis, (praxen' , //111 
+ 'Geschäftszeit,en' , //112 
+ 'Nachricht,en' , //113 
+ 'Öffnungszeit,en' , //114 
+ 'Vorliebe,n' , //115 
+ 'Jugendherberge,n' , //116 
+ 'Karte,n' , //117 
+ 'Reise,n' , //118 
+ 'Tasche,n' , //119 
+ 'Anzeige,n' , //120
 ];
 const values = [
      'المساء', //1
